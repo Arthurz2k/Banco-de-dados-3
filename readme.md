@@ -17,7 +17,7 @@ Abaixo está a representação visual do modelo de banco de dados, focando no re
 <div align="center">
   <img src="DER_eleicao.png" alt="Visão Geral do Banco de Dados de Eleição" width="850" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <br>
-  <i>(Certifique-se de que o arquivo DER_eleicao.png esteja na mesma pasta que este README)</i>
+  
 </div>
 
 ---
@@ -75,5 +75,6 @@ Pontos que valem uma revisão em uma próxima versão do diagrama:
 
 ---
 <p align="center">
-  <i>Desenvolvido para modelagem e documentação de estrutura de dados relacional.</i>
+  <i>Desenvolvido para modelagem e documentação de estrutura de dados relacional.
+  FEITO POR ARTHUR E JOÂO VITOR</i>
 </p>
